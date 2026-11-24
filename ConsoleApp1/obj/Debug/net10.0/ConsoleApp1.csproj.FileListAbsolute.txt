@@ -12,3 +12,4 @@ C:\Users\Windows11\OneDrive\Documents\C# Console VS Code\ConsoleApp1\obj\Debug\n
 C:\Users\Windows11\OneDrive\Documents\C# Console VS Code\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
 C:\Users\Windows11\OneDrive\Documents\C# Console VS Code\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\Windows11\OneDrive\Documents\C# Console VS Code\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
+C:\Users\Windows11\OneDrive\Documents\C# Console VS Code\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json
